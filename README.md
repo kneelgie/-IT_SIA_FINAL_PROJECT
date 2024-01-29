@@ -7,9 +7,7 @@ Airline System is a computerized platform that facilitates the process of bookin
 
 # Web Service
 
-Below are the instruction to view web service integration.
-
-Instructions:
+Below are the instructions to view web service integration.
 
 1. download and extract the file Airline_System.rar
 2. copy the extracted file and paste it to your local Disk C:/xampp/htdocts
