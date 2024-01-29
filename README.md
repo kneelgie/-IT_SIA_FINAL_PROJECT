@@ -16,7 +16,8 @@ Instructions:
 3. go to xampp and start Apache and SQL
 4. on your browser search localhost/sample client
 
-For more visit this link: https://youtu.be/kAbhzW08Kxs
+To avoid complexity on the browser part(localhost/sample) 
+visit this link: https://youtu.be/kAbhzW08Kxs
 
 
 # Airline Booking System Demo Video
