@@ -14,7 +14,7 @@ Below are the instructions to view web service integration.
 3. go to xampp and start Apache and SQL
 4. on your browser search localhost/sample client
 
-To avoid complexity on the browser part(localhost/sample client) 
+To avoid complexity on the browser part (localhost/sample client)  
 visit this link: https://youtu.be/kAbhzW08Kxs
 
 
